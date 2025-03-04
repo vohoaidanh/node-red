@@ -11,6 +11,7 @@
     "private": "true",
     "scripts": {
         "start": "node packages/node_modules/node-red/red.js",
+		"install": "npm install grunt-cli",
         "test": "grunt",
         "build": "grunt build",
         "dev": "grunt dev",
