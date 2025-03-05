@@ -80,7 +80,21 @@
         "uglify-js": "3.17.4",
         "uuid": "9.0.1",
         "ws": "7.5.10",
-        "xml2js": "0.6.2"
+        "xml2js": "0.6.2",
+        "@flowfuse/node-red-dashboard": "~1.21.0",
+        "node-red-contrib-buffer-parser": "~3.2.2",
+        "node-red-contrib-mcprotocol": "~1.2.1",
+        "node-red-contrib-mcprotocol-ind": "~1.7.0",
+        "node-red-contrib-melsoft": "~1.0.2",
+        "node-red-contrib-modbus": "~5.43.0",
+        "node-red-contrib-moment": "~5.0.0",
+        "node-red-contrib-ui-svg": "~2.3.3",
+        "node-red-dashboard": "~3.6.5",
+        "node-red-node-ping": "~0.3.3",
+        "node-red-node-serialport": "~2.0.3",
+        "node-red-node-sqlite": "~1.1.0",
+        "node-red-node-swagger": "~0.1.9",
+        "node-red-node-ui-table": "~0.4.4"
     },
     "optionalDependencies": {
         "@node-rs/bcrypt": "1.10.4"
